@@ -61,4 +61,4 @@ Setup and Installation
     Launch the frontend by opening index.html in a web browser.
     Use HTTPS to connect frontend and backend (Ajax requests).
 
-For development collaboration, join our Discord or use TeamViewer.
+Credits to: Patrick Simitzberger und Lukas Schertler 
